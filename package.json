@@ -29,7 +29,6 @@
     "example": "examples"
   },
   "devDependencies": {
-    "aws-sdk": "^2.1.19",
     "qiniu": "^6.1.6",
     "rc": "^1.0.1",
     "semver": "^4.3.3"
